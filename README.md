@@ -82,7 +82,7 @@ You can run `visioscan_rd` node with following steps, or make a [Quick start](#q
     ```bash
     roscore
     ```
-
+ 
 #### Step 2. Run bea_node
 
 Open another terminal and run following command:
@@ -90,7 +90,7 @@ Open another terminal and run following command:
    ```bash
    rosrun visioscan_rd bea_node
    ```
-
+ 
 #### Step 3: Run RViz
 
 You can run `RViz` package to visualize the point cloud. Open a new terminal and run the following command:
@@ -108,4 +108,4 @@ After compiled and installed the package, run the following command to make a qu
     ```bash
     roslaunch visioscan_rd visioscan_rd.launch
     ```
-
+ 
