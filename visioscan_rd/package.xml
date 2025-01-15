@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>visioscan_rd</name>
+  <version>1.2.5</version>
+  <description>BEA visioscan rawdata driver package</description>
+  <maintainer email="kang.xu@beasensors.com">XU KANG</maintainer>
+  <author email="kang.xu@beasensors.com">XU KANG</author> 
+  <license>BSD</license>
+  <url type="website">asia.beasensors.com </url> 
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+</package>
