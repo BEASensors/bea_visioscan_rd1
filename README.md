@@ -1,5 +1,6 @@
 # bea_visioscan_rd1
 ROS1 driver for VISIOSCAN RD
+v1.2.5
 
 # ROS Driver for VISIOSCAN
 
